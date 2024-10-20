@@ -1,0 +1,12 @@
+import React from 'react'
+import Apiintegration from './Components/Apiintegration'
+
+const App = () => {
+  return (
+    <div>
+      <Apiintegration/>
+    </div>
+  )
+}
+
+export default App
